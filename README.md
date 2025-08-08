@@ -1,6 +1,6 @@
 # HCAI Certified Hospital Inspector List Downloader for the Innovative Recruiting Application - Hope Karth
 
-This repository contains a Python script that automates the download of the certified hospital inspector list from the California Department of Health Care Access and Information (HCAI) website.
+Michael and Paige, this repo contains a Python script that automates the download of the certified hospital inspector list from the California Department of Health Care Access and Information (HCAI) website.
 
 ## 📋 Features
 
